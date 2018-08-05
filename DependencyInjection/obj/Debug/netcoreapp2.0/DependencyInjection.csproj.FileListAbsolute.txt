@@ -1,0 +1,11 @@
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.AssemblyInfo.cs
+/Users/jmcgee/Documents/testing/DependencyInjection/bin/Debug/netcoreapp2.0/DependencyInjection.deps.json
+/Users/jmcgee/Documents/testing/DependencyInjection/bin/Debug/netcoreapp2.0/DependencyInjection.runtimeconfig.json
+/Users/jmcgee/Documents/testing/DependencyInjection/bin/Debug/netcoreapp2.0/DependencyInjection.runtimeconfig.dev.json
+/Users/jmcgee/Documents/testing/DependencyInjection/bin/Debug/netcoreapp2.0/DependencyInjection.dll
+/Users/jmcgee/Documents/testing/DependencyInjection/bin/Debug/netcoreapp2.0/DependencyInjection.pdb
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.dll
+/Users/jmcgee/Documents/testing/DependencyInjection/obj/Debug/netcoreapp2.0/DependencyInjection.pdb

@@ -21,7 +21,7 @@ namespace DependencyInjection
         //REMOVE: when changing to Interface
             // private OracleDAL OdalOra = new OracleDAL();
             // private SQLServerDAL Odal = new SQLServerDAL();
-        private Idal _odal;
+        private IDal _odal;
         public string CustomerName { get; set; }
         public Customer(IDal iobj)
         {
