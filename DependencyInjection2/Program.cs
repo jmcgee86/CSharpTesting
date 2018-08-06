@@ -8,7 +8,7 @@ namespace DependencyInjection2
         static void Main(string[] args)
         {
             List<IWorker> workers = new List<IWorker>();
-            workers.Add(new Carpenter());
+            workers.Add(new Carpenter(new Cleaner()));
             workers.Add(new Plumber());
             workers.Add(new Electrician());
 
